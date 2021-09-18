@@ -1,6 +1,6 @@
 # E-commerce Empresax
 
-Este é um e-commerce para a empresa X, feito em PHP e MySQL.
+Este é um **e-commerce** para a *empresa X*, feito em PHP e MySQL.
 
 ## Funcionalidades:
 
