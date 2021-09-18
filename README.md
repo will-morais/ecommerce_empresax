@@ -9,3 +9,11 @@ Este é um **e-commerce** para a *empresa X*, feito em PHP e MySQL.
 ###### Melhorias do projeto:
 
 __Melhoria 1__, _melhoria 2_
+
+### Linguagens do Projeto:
+
+* HTML
+* CSS
+* JavaScript
+* PHP
+* MySQL
