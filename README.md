@@ -40,3 +40,5 @@ __Melhoria 1__, _melhoria 2_
 [Google](https://www.google.com)
 
 [http://www.horadecodar.com.br](http://www.horadecodar.com.br)
+
+Contribuidor principal: https://github.com/will-morais
